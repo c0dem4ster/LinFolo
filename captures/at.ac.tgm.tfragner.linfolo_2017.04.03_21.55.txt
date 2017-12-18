@@ -1,0 +1,35 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        3f37bfc at.ac.tgm.tfragner.linfolo/.ColorBlobDetectionActivity
+
+Key Set Manager:
+  [at.ac.tgm.tfragner.linfolo]
+      Signing KeySets: 135
+
+Packages:
+  Package [at.ac.tgm.tfragner.linfolo] (3f2084d0):
+    userId=10070 gids=[]
+    pkg=Package{3f5ac285 at.ac.tgm.tfragner.linfolo}
+    codePath=/data/app/at.ac.tgm.tfragner.linfolo-2
+    resourcePath=/data/app/at.ac.tgm.tfragner.linfolo-2
+    legacyNativeLibraryDir=/data/app/at.ac.tgm.tfragner.linfolo-2/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=301 targetSdk=11
+    versionName=3.01
+    splits=[base]
+    applicationInfo=ApplicationInfo{18c788da at.ac.tgm.tfragner.linfolo}
+    flags=[ DEBUGGABLE HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    dataDir=/data/data/at.ac.tgm.tfragner.linfolo
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2017-04-03 21:49:37
+    firstInstallTime=2017-04-01 21:06:50
+    lastUpdateTime=2017-04-03 21:49:37
+    signatures=PackageSignatures{41aceef [b43e10b]}
+    permissionsFixed=true haveGids=true installStatus=1
+    pkgFlags=[ DEBUGGABLE HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    User 0:  installed=true hidden=false stopped=false notLaunched=false enabled=0
+    User 10:  installed=true hidden=false stopped=true notLaunched=false enabled=0
+    grantedPermissions:
+      android.permission.CAMERA
