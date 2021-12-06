@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LinFolo</string>
+    <string name="blinker_description">Toggle Blinker</string>
+    <string name="dev_connected">Connected to Segway</string>
+    <string name="dev_no_conn">Disconnected from Segway</string>
+</resources>
